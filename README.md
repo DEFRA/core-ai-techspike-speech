@@ -29,10 +29,11 @@ Create a appsettings.json file in the root of the project directory with the fol
 
 ```
 {
-  "SpeechToText": {
-    "Endpoint": "<your_endpoint>",
-    "Key": "<your_key>"
-  }
+  "Endpoint": "<your_endpoint>",
+  "Key": "<your_key>",
+  "SubscriptionKey": "<your_subscription_key>",
+  "Region": "<your_region>",
+  "DeploymentName": "<your_deployment_name>"
 }
 ```
 
