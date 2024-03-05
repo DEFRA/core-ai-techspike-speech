@@ -5,6 +5,7 @@ Example C#/.NET console app demostrating the use of Azure AI Speech with Azure O
 The console app converts speech to text, uses the text to produce a completion from Azure OpenAI and then uses text to speech to add converation to the app.
 
 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/
+
 https://learn.microsoft.com/en-us/azure/ai-services/openai/
 
 ### Prerequisites
